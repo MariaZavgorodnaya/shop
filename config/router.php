@@ -26,7 +26,6 @@ $router->get('admin-profile', '/admin-profile', \NtSchool\Action\AdminProfileAct
 $router->get('admin-get-edit', '/admin-profile-edit/{id}', \NtSchool\Action\AdminEditAction::class);
 $router->post('admin-edit', '/admin-profile-edit/{id}', \NtSchool\Action\AdminEditAction::class);
 
-
 $router->get('admin-inbox', '/admin-inbox', \NtSchool\Action\AdminInboxAction::class);
 
 $router->get('admin-get-signUp', '/admin-signup', \NtSchool\Action\AdminSignUpAction::class);
