@@ -23,7 +23,6 @@ $router->get('contact', '/contacts', \NtSchool\Action\ContactAction::class);
 
 $router->get('admin', '/admin', \NtSchool\Action\AdminIndexAction::class);
 $router->get('admin-profile', '/admin-profile', \NtSchool\Action\AdminProfileAction::class);
-
 $router->get('admin-get-edit', '/admin-profile-edit/{id}', \NtSchool\Action\AdminEditAction::class);
 $router->post('admin-edit', '/admin-profile-edit/{id}', \NtSchool\Action\AdminEditAction::class);
 
