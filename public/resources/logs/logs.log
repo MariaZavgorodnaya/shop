@@ -1,0 +1,6 @@
+[2019-04-20 18:04:51] main-logger.WARNING: Foo [] []
+[2019-04-20 18:06:35] main-logger.WARNING: Foo [] []
+[2019-04-20 18:10:05] main-logger.INFO: My logger is now ready [] []
+[2019-04-20 18:12:03] main-logger.WARNING: My logger is now ready [] []
+[2019-04-20 18:12:06] main-logger.WARNING: My logger is now ready [] []
+[2019-04-20 18:13:08] main-logger.WARNING: My logger is now ready [] []

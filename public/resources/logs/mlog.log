@@ -1,0 +1,7 @@
+[2019-04-20 17:47:32] Monolog.WARNING: Some event [] []
+[2019-04-20 17:48:44] Monolog.WARNING: Some event [] []
+[2019-04-20 17:51:39] Monolog.WARNING: Some event [] []
+[2019-04-20 17:52:17] Monolog.WARNING: Foo [] []
+[2019-04-20 17:56:37] Monolog.WARNING: Foo [] []
+[2019-04-20 17:57:46] name.WARNING: Foo [] []
+[2019-04-20 17:59:41] name.WARNING: Foo [] []

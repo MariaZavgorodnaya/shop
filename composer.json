@@ -1,0 +1,25 @@
+{
+    "name": "maria/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "NtSchool\\":"src"
+        }
+    },
+    "require": {
+        "aura/router": "^3.1",
+        "illuminate/view": "^5.8",
+        "illuminate/database": "^5.8",
+        "guzzlehttp/psr7": "^1.5",
+        "aura/di": "^3.4",
+        "vlucas/phpdotenv": "^3.3",
+        "illuminate/pagination": "^5.8",
+        "monolog/monolog": "^1.24",
+        "wa72/simplelogger": "^1.1",
+        "mashaz/notifier-library": "^1.1.2",
+        "illuminate/validation": "^5.8",
+        "illuminate/translation": "^5.8",
+        "caouecs/laravel-lang": "^4.0"
+
+    }
+}
